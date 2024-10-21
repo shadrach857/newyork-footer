@@ -1,0 +1,38 @@
+li{
+    list-style: none;
+}
+.container{
+    display: flex;
+
+    gap: 40px;
+    
+    
+    
+}
+ol{
+    display: flex;
+    font-size: 0.8rem;
+    gap: 10px;
+    color: rgb( rgb(136, 136, 139));
+    
+
+}
+
+
+.seven{
+    color: rgb( rgb(136, 136, 139));
+}
+.vertical-line{
+    border-left: 1px solid black;
+    height: 300px;
+    margin-left: 10px;
+    display: inline-block;
+    padding-left:10px;
+
+
+}
+h1{
+    font-family: chomsky;
+    font-size: 40px;
+    margin-left: 40px;
+}
